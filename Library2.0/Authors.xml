@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Author>
+		<Errors />
+		<ID>1</ID>
+		<Name>Уильям Шекспир</Name>
+		<Description>Дата рождения: 23.06.1564</Description>
+	</Author>
+	<Author_>
+		<Errors />
+		<ID>2</ID>
+		<Name>Иванов Иван Иванович</Name>
+		<Description>Дата рождения: 01.01.1999</Description>
+	</Author_>
+</ArrayOfAuthor>

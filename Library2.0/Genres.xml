@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<ArrayOfGenre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Genre>
+		<Errors />
+		<ID>1</ID>
+		<Name>компьютерная литература</Name>
+		<Description> </Description>
+	</Genre>
+	<Genre>
+		<Errors />
+		<ID>2</ID>
+		<Name>Драма</Name>
+		<Description> </Description>
+	</Genre>
+</ArrayOfGenre>
